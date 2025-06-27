@@ -1,0 +1,130 @@
+{
+  "name": "James Nithil V",
+  "email": "jamnithil@gmail.com",
+  "phone": "+91 82201 73595",
+  "location": {
+    "district": "Kanyakumari",
+    "city": "Colachel",
+    "pin": "629251"
+  },
+  "education": {
+    "college": "Knowledge Institute of Technology, Salem",
+    "degree": "B.Tech in Artificial Intelligence and Data Science",
+    "completion_date": "May 9, 2025 Graduated" ,
+    "status": "Completed",
+    "cgpa": "8.1",
+    "no_of_backlogs": 0
+  },
+  "schooling": {
+    "higher_secondary": {
+      "school": "St. Mary’s Matric Higher Secondary School",
+      "year": "2020 – 2021",
+      "percentage": "84%"
+    },
+    "sslc": {
+      "school": "St. Mary’s Matric Higher Secondary School",
+      "year": "2018 – 2019",
+      "percentage": "74%"
+    }
+  },
+  "technical_skills": {
+    "languages": ["Java", "Python", "C++", "SQL", "JavaScript", "Bash"],
+    "frontend": ["HTML5", "CSS3", "React.js", "DOM Manipulation"],
+    "frameworks_tools": ["Spring Boot", "Hibernate", "JDBC", "Flask", "REST APIs", "Git", "Maven", "Power BI"],
+    "ai_ml": [
+      "scikit-learn", "Pandas", "NumPy", "Matplotlib", "TensorFlow", "Keras",
+      "CNN", "LLMs", "RAG", "GenAI", "Regression", "Classification", "Clustering", "PCA",
+      "Q-Learning", "Deep Q-Networks", "Hugging Face Transformers", "OpenAI API"
+    ],
+    "databases": ["MySQL"],
+    "tools": ["Eclipse IDE", "VS Code", "GitHub", "Agile Methodologies"]
+  },
+  "projects": [
+    {
+      "title": "Scalable Cab Booking System",
+      "tech": ["Java", "MySQL"],
+      "summary": "Multi-threaded backend system with microservices architecture, handling 100+ concurrent ride requests."
+    },
+    {
+      "title": "FarmVista - Plant Disease Prediction",
+      "tech": ["Python", "Flask", "CNN"],
+      "summary": "AI system using CNN to detect plant diseases with 94% accuracy; real-time image analysis."
+    },
+    {
+      "title": "Real-Time Disease Prediction System",
+      "tech": ["Python", "Flask", "ML"],
+      "summary": "Real-time disease predictor using Random Forest algorithm with 87% accuracy."
+    }
+  ],
+  "internships": [
+    {
+      "company": "Accenture",
+      "role": "Data Analytics & Visualization Intern",
+      "duration": "Nov 2023 – May 2024",
+      "summary": "Processed 10,000+ records, automated dashboards, optimized pipelines, presented insights."
+    },
+    {
+      "company": "Spreadtech Solutions",
+      "role": "Data Science Intern",
+      "duration": "Nov 2023 – Dec 2023",
+      "summary": "Developed spam detection and price prediction models; deployed ML models with Flask."
+    }
+  ],
+  "certifications": [
+    "Core Java & SQL - EBox",
+    "MySQL Database - IBM",
+    "Machine Learning - Simply Learn",
+    "Deep Learning using PyTorch - Guvi"
+  ],
+  "achievements": [
+    "Top 10 Finalist in Smart India Hackathon 2024 as Team Leader",
+    "Solved 200+ LeetCode problems (Top 30% Java Devs)"
+  ],
+  "github": "https://github.com/nithiljn",
+  "linkedin": "https://linkedin.com/in/jamesnithil-v",
+  "leetcode": "https://leetcode.com/u/NITHIL07",
+  "personal_life": {
+    "sports": "Professional football player",
+    "close_friends": [
+      "Vidhya B", "Gokul C", "Mukilan S", "Sopna V",
+      "Keerthan M", "Mohan Raj", "Sakthi K S", "Rohit", "Nishok"
+    ],
+    "details": {
+      "Rohit": {
+        "relationship": "Best friend since 5th standard school life",
+        "education": {
+          "degree": "BBA",
+          "college": "St. John's College of Arts and Science, Ammainduvilai",
+          "graduation_year": 2024
+        },
+        "location": "Vaniyakudi near church",
+        "phone": "9566955759",
+        "family": {
+          "brother": {
+            "name": "Krithick",
+            "education": "B.Tech IT",
+            "college": "JPR College, Chennai"
+          },
+          "father": {
+            "occupation": "Fisherman"
+          }
+        }
+      },
+      "Nishok": {
+        "phone": "9360324962",
+        "education": {
+          "undergraduate": {
+            "degree": "UG - BBA",
+            "college": "St. John's College of Arts and Science Ammanduvilai",
+            "status": "Graduated"
+          },
+          "postgraduate": {
+            "degree": "MBA",
+            "status": "2nd Year",
+            "expected_graduation": 2026
+          }
+        }
+      }
+    }
+  }
+}
