@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+venv310/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore env variables and audio
+.env
+*.mp3
+
+# VSCode & OS files
+.vscode/
+.DS_Store
