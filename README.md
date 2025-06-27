@@ -2,6 +2,8 @@
 
 A voice-based personal portfolio assistant powered by **Gemini AI** for question answering and **ResponsiveVoice.js** for speech output. Ask anything about James — education, projects, skills, and more — and get answers in both text and voice!
 
+![James AI Voice Assistant](https://github.com/nithiljn/james-ai-voicebot/blob/main/frontPage.png)
+
 ---
 
 ## 🚀 Features
